@@ -1,0 +1,25 @@
+{
+  "name": "retail-partner-api",
+  "version": "1.0.0",
+  "description": "An API for managing retail customers, products, and orders.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthurBruno/retail-partner-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arthurBruno/retail-partner-api/issues"
+  },
+  "homepage": "https://github.com/arthurBruno/retail-partner-api#readme",
+  "dependencies": {
+    "axios": "^0.21.0"
+  },
+  "devDependencies": {
+    "mocha": "^8.2.0"
+  }
+}
